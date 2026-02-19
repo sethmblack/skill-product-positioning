@@ -3,8 +3,9 @@ name: product-positioning
 description: Define or refine what your product does and who it's for - the foundational decision that Ogilvy called "more important than any other.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4742
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - product-positioning
 - writing
