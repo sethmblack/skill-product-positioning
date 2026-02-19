@@ -4,7 +4,7 @@ description: Define or refine what your product does and who it's for - the foun
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4742
+  version: 1.0.4743
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - product-positioning
